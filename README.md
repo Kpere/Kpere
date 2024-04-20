@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kpere
-- 👀 I’m interested in Quant Finance
+- 👀 I’m interested in Deep Learning Applications 
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on different projects around Algorithmic Trading
 - 📫 Reach me via my email.
